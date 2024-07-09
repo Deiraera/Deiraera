@@ -24,6 +24,8 @@
 - do zarządzania testowaniem:
   - Jira
   - TestLink
+- testowanie API:
+  - Postman
 - metody zarządzania:
   - Scrum
 - do tworzenia repozytorium:
@@ -35,3 +37,13 @@
 
 ## Otrzymane certyfikaty:
 [Certyfikat ukończenia kursu Tester Manualny w ALX Academy Sp. z o.o.](https://www.alx.pl/certyfikat/natalia-mecina/f85682066a614975a07ff55ba74d825a/)
+
+## Książki techniczne
+- [Książka o testowaniu - Piotr Wicherski](https://ksiazka.testowanieoprogramowania.pl/)
+
+## Blogi
+- [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
+- [testerzy.pl](https://testerzy.pl/baza-wiedzy)
+- [testuj.pl](https://testuj.pl/blog)
+- [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
+
