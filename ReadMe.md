@@ -41,7 +41,7 @@
 ## » Książki techniczne
 - [Książka o testowaniu - Piotr Wicherski](https://ksiazka.testowanieoprogramowania.pl/)
 
-## Blogi
+## » Blogi
 - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
 - [testerzy.pl](https://testerzy.pl/baza-wiedzy)
 - [testuj.pl](https://testuj.pl/blog)
