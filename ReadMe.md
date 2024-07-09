@@ -49,7 +49,7 @@
 - Python
 
 ## » Otrzymane certyfikaty:
-[Certyfikat ukończenia kursu Tester Manualny w ALX Academy Sp. z o.o.](https://www.alx.pl/certyfikat/natalia-mecina/f85682066a614975a07ff55ba74d825a/)
+- [Certyfikat ukończenia kursu Tester Manualny w ALX Academy Sp. z o.o.](https://www.alx.pl/certyfikat/natalia-mecina/f85682066a614975a07ff55ba74d825a/)
 
 ## » Książki techniczne
 - [Książka o testowaniu - Piotr Wicherski](https://ksiazka.testowanieoprogramowania.pl/)
