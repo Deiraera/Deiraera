@@ -19,49 +19,50 @@
 <p align="justify">Mój największy minus? Urodziłam się z zepsutym słuchem. Mimo tego jestem w stanie porozumieć się z drugą osobą dzięki noszonym aparatom słuchowym. W większym lub mniejszym stopniu.
 
 ## » Umiejętności:
-- Analiza i projektowanie testów
-- Przeprowadzanie testów
-- Raportowanie błędów
-- Znajomość narzędzi i technologii
-- Umiejętności analityczne i problem-solving
-- Komunikacja i współpraca
-- Znajomość metodologii testowania
-- Dbałość o szczegóły
-- Nauka i adaptacja
+- analiza i projektowanie testów
+- przeprowadzanie testów
+- raportowanie błędów
+- znajomość narzędzi i technologii
+- umiejętności analityczne i problem-solving
+- komunikacja i współpraca
+- znajomość metodologii testowania
+- dbałość o szczegóły
+- nauka i adaptacja
 
 ## » Techniczne umiejętności:
 - testowanie oprogramowania
-- tworzenie scenariuszy testów
 - tworzenie przypadków testowych
 - tworzenie raportów błędów
+- tworzenie scenariuszy testów
+
 
 ## » Poznane narzędzia:
+- do tworzenia repozytorium:
+  - GitHub
 - do zarządzania testowaniem:
   - Jira
   - TestLink
-- testowanie API:
-  - Postman
 - metody zarządzania:
   - Scrum
-- do tworzenia repozytorium:
-  - GitHub
+- testowanie API:
+  - Postman
 
 ## » Poznane podstawy języków:
-- SQL
 - Python
+- SQL
 
 ## » Otrzymane certyfikaty:
 - [Certyfikat ukończenia kursu Tester Manualny w ALX Academy Sp. z o.o.](https://www.alx.pl/certyfikat/natalia-mecina/f85682066a614975a07ff55ba74d825a/)
 
 ## » Książki techniczne
-- [Książka o testowaniu - Piotr Wicherski](https://ksiazka.testowanieoprogramowania.pl/)
 - [Certyfikowany tester ISTQB®. Poziom podstawowy. Wydanie II - Adam Roman, Lucjan Stapp, Michaël Pilaeten](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-wydanie-ii-adam-roman-lucjan-stapp-michael-pilaeten,ctisp2.htm#format/d)
+- [Książka o testowaniu - Piotr Wicherski](https://ksiazka.testowanieoprogramowania.pl/)
 
 ## » Blogi
-- [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
+- [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
 - [testerzy.pl](https://testerzy.pl/baza-wiedzy)
 - [testuj.pl](https://testuj.pl/blog)
-- [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
+- [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
 
 ## » Dokumentacja testerska
 - tworzenie raportów błędów Mr Buggy 3
