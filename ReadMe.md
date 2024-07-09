@@ -12,7 +12,7 @@
 
 ---
 ## » Coś o mnie:
-<p align="justify">Jestem osobą z dużym dystansem do siebie, która próbuje radzić sobie w wielkim i głośnym świecie, mając znaczny ubytek słuchu. Jako tester, cechuję się wyjątkową spostrzegawczością, skrupulatnością i cierpliwością. Potrafię analizować szczegóły, znajdując nawet najdrobniejsze błędy. Moja zdolność do logicznego myślenia i systematycznego podejścia do problemów sprawia, że skutecznie identyfikuję i raportuję usterki, dążąc do ciągłego doskonalenia jakości oprogramowania.</p>
+<p align="justify">Jestem osobą z dużym dystansem do siebie, która próbuje radzić sobie w wielkim i głośnym świecie, mając znaczny ubytek słuchu. Mimo problemów ze słuchem jestem w stanie porozumieć się z drugą osobą. W większym lub mniejszym stopniu. Jako tester, cechuję się wyjątkową spostrzegawczością, skrupulatnością i cierpliwością. Potrafię analizować szczegóły, znajdując nawet najdrobniejsze błędy. Moja zdolność do logicznego myślenia i systematycznego podejścia do problemów sprawia, że skutecznie identyfikuję i raportuję usterki, dążąc do ciągłego doskonalenia jakości oprogramowania.</p>
 
 ## » Umiejętności:
 - Analiza i projektowanie testów
@@ -42,7 +42,7 @@
 - do tworzenia repozytorium:
   - GitHub
 
-## » Poznane podstawy języków oprogramowania:
+## » Poznane podstawy języków:
 - SQL
 - Python
 
@@ -51,6 +51,7 @@
 
 ## » Książki techniczne
 - [Książka o testowaniu - Piotr Wicherski](https://ksiazka.testowanieoprogramowania.pl/)
+- [Certyfikowany tester ISTQB®. Poziom podstawowy. Wydanie II - Adam Roman, Lucjan Stapp, Michaël Pilaeten](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-wydanie-ii-adam-roman-lucjan-stapp-michael-pilaeten,ctisp2.htm#format/d)
 
 ## » Blogi
 - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
