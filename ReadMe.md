@@ -1,14 +1,14 @@
 # Strona w trakcie tworzenia
 #### Menu:
-- [Coś o mnie](https://github.com/NMecina/NMecinaTest/edit/main/ReadMe.md#-co%C5%9B-o-mnie)
-- [Umiejętności](https://github.com/NMecina/NMecinaTest/edit/main/ReadMe.md#-umiej%C4%99tno%C5%9Bci)
-- [Techniczne umiejętności](https://github.com/NMecina/NMecinaTest/edit/main/ReadMe.md#-techniczne-umiej%C4%99tno%C5%9Bci)
-- [Poznane narzędzia](https://github.com/NMecina/NMecinaTest/edit/main/ReadMe.md#-poznane-narz%C4%99dzia)
-- [Poznane podstawy języków oprogramowania](https://github.com/NMecina/NMecinaTest/edit/main/ReadMe.md#-poznane-podstawy-j%C4%99zyk%C3%B3w-oprogramowania)
-- [Otrzymane certyfikaty](https://github.com/NMecina/NMecinaTest/edit/main/ReadMe.md#-otrzymane-certyfikaty)
-- [Książki techniczne](https://github.com/NMecina/NMecinaTest/edit/main/ReadMe.md#-ksi%C4%85%C5%BCki-techniczne)
-- [Blogi](https://github.com/NMecina/NMecinaTest/edit/main/ReadMe.md#-blogi)
-- [Dokumentacja testerska](https://github.com/NMecina/NMecinaTest/edit/main/ReadMe.md#-dokumentacja-testerska)
+- [Coś o mnie](https://github.com/NMecina/NMecinaTest#-co%C5%9B-o-mnie)
+- [Umiejętności](https://github.com/NMecina/NMecinaTest#-umiej%C4%99tno%C5%9Bci)
+- [Techniczne umiejętności](https://github.com/NMecina/NMecinaTest#-techniczne-umiej%C4%99tno%C5%9Bci)
+- [Poznane narzędzia](https://github.com/NMecina/NMecinaTest#-poznane-narz%C4%99dzia)
+- [Poznane podstawy języków oprogramowania](https://github.com/NMecina/NMecinaTest#-poznane-podstawy-j%C4%99zyk%C3%B3w-oprogramowania)
+- [Otrzymane certyfikaty](https://github.com/NMecina/NMecinaTest#-otrzymane-certyfikaty)
+- [Książki techniczne](https://github.com/NMecina/NMecinaTest#-ksi%C4%85%C5%BCki-techniczne)
+- [Blogi](https://github.com/NMecina/NMecinaTest?tab=readme-ov-file#-blogi)
+- [Dokumentacja testerska](https://github.com/NMecina/NMecinaTest?tab=readme-ov-file#-dokumentacja-testerska)
 
 ---
 ## » Coś o mnie:
