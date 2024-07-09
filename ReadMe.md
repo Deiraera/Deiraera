@@ -12,7 +12,9 @@
 
 ---
 ## » Coś o mnie:
-<p align="justify">Jestem osobą z dużym dystansem do siebie, która próbuje radzić sobie w wielkim i głośnym świecie, mając znaczny ubytek słuchu. Mimo problemów ze słuchem jestem w stanie porozumieć się z drugą osobą. W większym lub mniejszym stopniu. Jako tester, cechuję się wyjątkową spostrzegawczością, skrupulatnością i cierpliwością. Potrafię analizować szczegóły, znajdując nawet najdrobniejsze błędy. Moja zdolność do logicznego myślenia i systematycznego podejścia do problemów sprawia, że skutecznie identyfikuję i raportuję usterki, dążąc do ciągłego doskonalenia jakości oprogramowania.</p>
+<p align="justify">Jestem osobą z dużym dystansem do siebie, która próbuje radzić sobie w wielkim i głośnym świecie, mając znaczny ubytek słuchu. Mimo problemów ze słuchem jestem w stanie porozumieć się z drugą osobą. W większym lub mniejszym stopniu.</p>
+
+<p align="justify">Jako tester, cechuję się wyjątkową spostrzegawczością, skrupulatnością i cierpliwością. Potrafię analizować szczegóły, znajdując nawet najdrobniejsze błędy. Moja zdolność do logicznego myślenia i systematycznego podejścia do problemów sprawia, że skutecznie identyfikuję i raportuję usterki, dążąc do ciągłego doskonalenia jakości oprogramowania.</p>
 
 ## » Umiejętności:
 - Analiza i projektowanie testów
