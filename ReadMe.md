@@ -56,7 +56,6 @@
 
 ## » Książki techniczne
 - [Certyfikowany tester ISTQB®. Poziom podstawowy. Wydanie II - Adam Roman, Lucjan Stapp, Michaël Pilaeten](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-wydanie-ii-adam-roman-lucjan-stapp-michael-pilaeten,ctisp2.htm#format/d)
-- [Książka o testowaniu - Piotr Wicherski](https://ksiazka.testowanieoprogramowania.pl/)
 
 ## » Blogi
 - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
